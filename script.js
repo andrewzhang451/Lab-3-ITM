@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
       document.getElementById('tipPercentage').value = tipPercentage;
       document.getElementById('tipAmount').value = tipAmount;
       document.getElementById('totalBill').value = totalBill;
+        
     });
   });
   
